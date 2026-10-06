@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.py[cod]
+.pytest_cache/
+reports/
+screenshots/
+.idea/
+.vscode/
+*.log
+.workbuddy/
+测试用例_用户管理.xlsx
+target/

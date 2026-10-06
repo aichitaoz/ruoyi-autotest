@@ -1,0 +1,4 @@
+﻿nickname,username,password,expected
+自动化测试1,autotest01,test12345,新增成功
+自动化测试2,autotest02,test12345,新增成功
+自动化测试3,autotest03,test12345,新增成功
